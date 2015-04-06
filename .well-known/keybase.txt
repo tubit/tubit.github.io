@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/tubit
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://tubit.net
+  * I am tubit (https://keybase.io/tubit) on keybase.
+  * I have a public key with fingerprint 2712 F931 3256 9452 2AC6  09DB C3AD 2331 E4BB BFEC
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "2712f931325694522ac609dbc3ad2331e4bbbfec",
+            "host": "keybase.io",
+            "key_id": "C3AD2331E4BBBFEC",
+            "uid": "1e7c00d9345430e2ccef4c3b3140f400",
+            "username": "tubit"
+        },
+        "service": {
+            "hostname": "tubit.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396259255,
+    "expire_in": 157680000,
+    "prev": "bf0e5dd6ed055e0d5eebbc205a5545deaf1e176ca1a60920ce8edab6ca9d92ae",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGbwMvMwMR4eK2y4ZPd+98wnj7wOokh2NJye7VSUn5KpZJVtVJ2KphKy8xLTy0q
+KMrMK1GyUjIyNzRKszQ2NDYyNbM0MTUySkw2M7BMSUo2TkwxMjY2TDVJSkpKS01W
+0lHKyC8G6QAak5RYnKqXmQ8UA3LiM1OAos7Gji4g9a4mTk5Obq7OQLlSsIRhqnmy
+gUGKpbGJqYmxQapRcnJqmkmycZKxoYlBmomBAUhhcWpRXmJuKlB1SWlSZolSrY4S
+UKgsMzkV5GCQvcjSenmpJUBdBUX5JfnJ+TlA4YySkgIrkK6SygKQsvLUpHioAfFJ
+mXkpQB8DNZSlFhVn5ucpWRkCVSaXZIJMNDS2NDMytTQyNdVRSq0oyCxKjc8EqTA1
+N7MwAAKQNallQCOT0gxSTVNSzFJTDExNUw1STFNTk5KSjQxME01NTUxTUhPTDFMN
+zc2SEw0TgeFnZJCcapGakpgEFLBMsTRKTFUCeakwL1/JCmhTSWI60MjizPS8xJLS
+olSl2k4mGRYGRiYGNlYmUJwxcHEKwGKyMon/f/I9waVff067IP6usvhv7w5x7xDH
+05yyHcefMWQeZdINO3VgdbLam/1hYVszLG5Xr22YYG6m4KgaWHpuwrbWKd/nN8yP
+vFOzeH7Fng+nL9Y9lLd2WZxe+G+RPPv94lUuz4+VS12Laf6qPV/q7Jw3V2/258U0
+zcrgfWoxSeZ14uLOwEllekXiEuVH777wEXXb962Xs9on/qfYxL//TW5+759nu/e8
+9FGRtxFqZt/id/+7aXLl65dH1Sd8732o/VPsxsK6QaBJMpbD26rMa43ii9apT/3W
+dC2dNs3Z65rJgg1TnDlS3+/Rb1u84mggn4a1r8KJ7z2rGbbL/d2yx/m6jZGAWk36
+dzen95UWebpFe8Ns+TjCL8drdIaH3XF++P99hDWj+qnVH1a7C1RXH5JcEH3GrNQg
+MarpbfYB4TtXc3deT3hase522vfP9+xuHXPwONt/jc26tC8i4KozS+knNraQdScV
+zjM0zPD5+m7ROVd5UacFLImWmuvaX/33zfmqJso4b+WJyPjFV74v29+aVNGyoyYu
+3lfo7D1ht02rT/BWHNs8NYP7R0ig0c3j6SX/Dl2dfS6SLSkrJIVF6fVd/Sw1OQOJ
+uUdWxei0bSy/za3a+u/csrln+ivvXnvgZa80a1JgXvOhwIS8iJ+MzrITOj6E92k4
+hf1ceclz4joHzS1brN2zJrdKn1zSv+cLQ0DADs9d95ONdR4uL+WYDQA=
+=22XI
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tubit
+
+==================================================================

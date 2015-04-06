@@ -1,0 +1,49 @@
+BODY, P, DIV, INPUT, SELECT, SPAN, TD, TH, UL, LI, FORM, TEXTAREA
+{
+	color: #000000;
+	font-family: Courier, Helvetica, Arial, Sans-Serif;
+	font-size: 10pt;
+	background-color: #383838;
+}
+
+ADDRESS
+{
+	color: #000000;
+	font-family: Courier, Helvetica, Arial, Sans-Serif;
+	font-size: 8pt;
+}
+
+A
+{
+	color: #3366CC;
+	font-weight: normal;
+	text-decoration: none;
+	font-family: Courier, Helvetica, Arial, Sans-Serif;
+	font-size: 10pt;
+}
+
+A.actual
+{
+	color: #22335A;
+	font-weight: normal;
+	font-size: 10pt;
+	text-decoration: underline;
+}
+		
+A:hover
+{
+	text-decoration: underline;
+}
+		
+P.copyright
+{	
+	font-size: 8pt;
+}
+		
+DIV.copyright
+{
+	font-size: 8pt;
+}
+
+A.nav { font-size: 10pt; }
+
