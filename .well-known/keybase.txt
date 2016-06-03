@@ -8,16 +8,23 @@ I hereby claim:
   * I am tubit (https://keybase.io/tubit) on keybase.
   * I have a public key with fingerprint 2712 F931 3256 9452 2AC6  09DB C3AD 2331 E4BB BFEC
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
 {
     "body": {
         "key": {
+            "eldest_kid": "0101732fae8cd3b21943d589ff34932b7120f3529907f9b1544a343205bbd9d163ad0a",
             "fingerprint": "2712f931325694522ac609dbc3ad2331e4bbbfec",
             "host": "keybase.io",
-            "key_id": "C3AD2331E4BBBFEC",
+            "key_id": "c3ad2331e4bbbfec",
+            "kid": "0101732fae8cd3b21943d589ff34932b7120f3529907f9b1544a343205bbd9d163ad0a",
             "uid": "1e7c00d9345430e2ccef4c3b3140f400",
             "username": "tubit"
+        },
+        "revoke": {
+            "sig_ids": [
+                "6e4851eefb408a27d6b54e5a42c2076762f78c73b041d8f53604ae55ae543ed90f"
+            ]
         },
         "service": {
             "hostname": "tubit.net",
@@ -26,39 +33,42 @@ To claim this, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1396259255,
+    "ctime": 1464956011,
     "expire_in": 157680000,
-    "prev": "bf0e5dd6ed055e0d5eebbc205a5545deaf1e176ca1a60920ce8edab6ca9d92ae",
-    "seqno": 5,
+    "prev": "2b6b1afc52f4699b626efca273a120a44edb64b49f95b50928ebdadc72fc6936",
+    "seqno": 7,
     "tag": "signature"
 }
 
-with the aforementioned key, yielding the PGP signature:
+which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: GnuPG v1
+Version: GnuPG v1.4
 
-owGbwMvMwMR4eK2y4ZPd+98wnj7wOokh2NJye7VSUn5KpZJVtVJ2KphKy8xLTy0q
-KMrMK1GyUjIyNzRKszQ2NDYyNbM0MTUySkw2M7BMSUo2TkwxMjY2TDVJSkpKS01W
-0lHKyC8G6QAak5RYnKqXmQ8UA3LiM1OAos7Gji4g9a4mTk5Obq7OQLlSsIRhqnmy
-gUGKpbGJqYmxQapRcnJqmkmycZKxoYlBmomBAUhhcWpRXmJuKlB1SWlSZolSrY4S
-UKgsMzkV5GCQvcjSenmpJUBdBUX5JfnJ+TlA4YySkgIrkK6SygKQsvLUpHioAfFJ
-mXkpQB8DNZSlFhVn5ucpWRkCVSaXZIJMNDS2NDMytTQyNdVRSq0oyCxKjc8EqTA1
-N7MwAAKQNallQCOT0gxSTVNSzFJTDExNUw1STFNTk5KSjQxME01NTUxTUhPTDFMN
-zc2SEw0TgeFnZJCcapGakpgEFLBMsTRKTFUCeakwL1/JCmhTSWI60MjizPS8xJLS
-olSl2k4mGRYGRiYGNlYmUJwxcHEKwGKyMon/f/I9waVff067IP6usvhv7w5x7xDH
-05yyHcefMWQeZdINO3VgdbLam/1hYVszLG5Xr22YYG6m4KgaWHpuwrbWKd/nN8yP
-vFOzeH7Fng+nL9Y9lLd2WZxe+G+RPPv94lUuz4+VS12Laf6qPV/q7Jw3V2/258U0
-zcrgfWoxSeZ14uLOwEllekXiEuVH777wEXXb962Xs9on/qfYxL//TW5+759nu/e8
-9FGRtxFqZt/id/+7aXLl65dH1Sd8732o/VPsxsK6QaBJMpbD26rMa43ii9apT/3W
-dC2dNs3Z65rJgg1TnDlS3+/Rb1u84mggn4a1r8KJ7z2rGbbL/d2yx/m6jZGAWk36
-dzen95UWebpFe8Ns+TjCL8drdIaH3XF++P99hDWj+qnVH1a7C1RXH5JcEH3GrNQg
-MarpbfYB4TtXc3deT3hase522vfP9+xuHXPwONt/jc26tC8i4KozS+knNraQdScV
-zjM0zPD5+m7ROVd5UacFLImWmuvaX/33zfmqJso4b+WJyPjFV74v29+aVNGyoyYu
-3lfo7D1ht02rT/BWHNs8NYP7R0ig0c3j6SX/Dl2dfS6SLSkrJIVF6fVd/Sw1OQOJ
-uUdWxei0bSy/za3a+u/csrln+ivvXnvgZa80a1JgXvOhwIS8iJ+MzrITOj6E92k4
-hf1ceclz4joHzS1brN2zJrdKn1zSv+cLQ0DADs9d95ONdR4uL+WYDQA=
-=22XI
+owGtUm1QVFUYXjbThCi0CJN04jKiTED349x79yyYQ4Gi0w9WSiUmmHvuPZe9gLu4
+e9lcEQbwY0JFEbTBqIgJCJkgEWQjrESSL7cGM2QG+NGSbCkYjsSU2kzdS9NMP/rZ
+mTlz5rzzvM/7vM/7VgY/YjAG9LVGUjd7vpoNuHoLGXZaVLWQQHbJTZgLiVy8+OA8
+CTvVrFxFIswESZEUz9CygE2ixCCagoCRWBOUZQZAhkY8RZMyw9IQkrwMEcUCIDCA
+oUkWIQlKFMcIEikQMYSs2LKxI9+h2FSNltbyZMhQDM1yELA0LYgcCSUkanCaYSgM
+EEIyFrVEq92pZ2jikODEcYpdi2mfrEV5/4H/n3UXLNJRmBdJUoIMYAFDYloUsQxE
+BjEUIGVAkjrQiR02YTfW0GoBUlSiKIZwYJc9F+umOpVsTbGTMGcQHAYmlsJYRoA0
+CTQvcYgFmBUALdIkz/EcLfMmkWcQCSjJJLMMRwIBs6x2AYMlSMrEmxq3Vs6liIvk
+ukX/Lh1nw6qmKN9hV+2iPU8LW1U136wrUt35OuwtjLKcrX8zZCHFJmnT0TJc2OFU
+7DbCTGlQUVV0SgpwALIcSVExBN6brzhwlqIjWJ4zkdrR62CXPlPEIUqQRZaWAQch
+4mgOy6LWICNoZgsAYAlxAAEoQxaxJKRNGEmCJPK0LHKQ4Qi9pz02O2HmNZ1Ctkap
+uWYT1AIHJooCy43PLTEEGA1LHzXqa2sIXB7yzy4XXQ0xTFsWrF3e9g8vKpFR+wN/
+PRVqz/6yYY27uHpqcwuYiPJ7Om6vCgLbi/N64kPuhnq8ZePBR9jOqhs165usKXJm
+omVtfGRTcuOn13/sPjH0NpXYXLfx57q+mt9ia+TYXs9Yf4ZzhLfx4w/veKIbPf7k
+Wx0PXJ3fDo6Nftced3Lw99O+w2HXJmTH8UlivkDcL88EjCycKZro+4a/2T9v2uY+
+O+x9esc7Oet2pnEtCU10Lwm/eDzil/B7Q8+bhg4EUTbifZgKbwz4B8MPwxd27Gvr
+60o/X7khuuIyszK8sbI9b3XdXufooeQrh/y50760z6jWaO+87V7ObGdpd494sb6U
+936Q/tRBajildvR0s3XLvlcuR+wO7QVrgjKHXzzjF/50NzhG70fgH0JfT3GvKHv5
+3IF68ypzhp2KWzbp70p7be77Z89dOHXecr+6ZbNp8o9dKxNcSbv2jHxSM9XZ8NKm
+9nWwYmDQWrqVbSuNWkZbtlW10Usblq+VK555lVt/sKfsUn1f4k+F74lX3rhecvSx
+nCfvRh2PLB93tG2fn3r47pgxprJ34+2Ss5/fiY1esmCe8z44OdOU90Rta23qx75j
+xeDapKU5MbVjJnGuJaA5eHarZ3pDeunX9UONl/qTwqxhkb7MEt/MSHz76hMxxqoL
+viMrul3p1VsSgjYRwxVRAx8lHYVT5dj7Fw==
+=i7ku
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -67,3 +77,4 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/tubit
 
 ==================================================================
+
